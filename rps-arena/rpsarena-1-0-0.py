@@ -1,4 +1,4 @@
-#Rock-Paper-Scissors Arena V1
+#RPS (Rock-Paper-Scissors) Arena 1.0.0
 import random
 import time
 
