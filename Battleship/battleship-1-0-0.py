@@ -1,4 +1,4 @@
-#Battleship Version 1.0, poor bot AI.
+#Battleship Version 1.0.0, poor bot AI.
 
 import time, sys, random
 
